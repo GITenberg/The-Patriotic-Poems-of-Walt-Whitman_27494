@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/600
     wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27494#The-Patriotic-Poems-of-Walt-Whitman
 gutenberg_issued: '2008-12-11'
 gutenberg_type: Text
 identifiers:
